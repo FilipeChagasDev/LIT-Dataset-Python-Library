@@ -1,0 +1,30 @@
+{
+    '__header__': b'MATLAB 5.0 MAT-file, Platform: GLNXA64, Created on: Sat Oct 24 14:13:55 2020',
+    
+    '__version__': '1.0',
+    
+    '__globals__': [],
+    
+    'waveform': array([[0]], dtype=uint8),
+    
+    'mains_freq': array([[60]], dtype=uint8),
+    
+    'sps': array([[15384]], dtype=uint16),
+    
+    'acquisition_descr': array(['Microwave Standby then LED Lamp:2s off, 5s load A on, 10s load A and B on, 4s load B on, 9s off'], dtype='<U95'), 
+
+    'load_descr': array(['Microwave, Consul 17 liters CMS18BBHNA,127V 1200W - standby 4.5W then LED Lamp, Tashibra TKl 06, 127V 6W'], dtype='<U104'),
+    
+    'iShunt': array([[ 0.      ], [-0.005476], [ 0.      ], ..., [ 0.      ], [-0.005476], [-0.005476]]), 'iHall': array([[0.005306], [0.005306], [0.005306], ..., [0.      ], [0.005306], [0.      ]]), 
+    
+    'vGrid': array([[ 143.589888], [ 145.877472], [ 148.604976], ..., [-173.064528], [-173.416464], [-173.592432]]),
+    
+    'events_r': array([[0], [0], [0], ..., [0], [0], [0]], dtype=int16),
+    
+    'labels': array([[array(['0'], dtype='<U1')], [array(['0'], dtype='<U1')], [array(['0'], dtype='<U1')], ..., [array(['0'], dtype='<U1')], [array(['0'], dtype='<U1')], [array(['0'], dtype='<U1')]], dtype=object), 
+    
+    'duration_t': array([[30]], dtype=uint8), 
+    
+    'load_descr_short': array(['2A0B0'], dtype='<U5')
+    
+}

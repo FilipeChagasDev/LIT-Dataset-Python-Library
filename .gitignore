@@ -1,3 +1,10 @@
+#LIT files
+LIT_Dataset/Matlab_Data/*
+LIT_Dataset/RAW_Data/Natural/*
+LIT_Dataset/RAW_Data/Simulated/*
+LIT_Dataset/RAW_Data/Synthetic/*
+LIT_Dataset/zip/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
